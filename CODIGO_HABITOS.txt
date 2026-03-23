@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+      <title>H&Aacute;BITOS SALUDABLES</title>
+      </head>
+      <body>
+<header>
+    <nav>
+ <ul>
+		<li><a href="ejercicios.html">EJERCICIOS</a></li>
+		<li><a href="snacks.html">SNACKS</a></li>
+		<li><a href="imc.html">CONOCE TU IMC</a></li>
+ </ul>
+    </nav>
+</header>
+<br><br><br>
+<h1><center>H&Aacute;BITOS ALIMENTICIOS Y VIDA SALUDABLE<center></h1>
+<br><center>
+<img src="https://yoelijocuidarme.es/wp-content/uploads/2018/04/consejos-habitos-vida-saludable-620x420@2x.jpg" alt="habitos" width="500"></center>
+<br>
+<br>
+<h2>¿QU&Eacute; ES UNA BUENA ALIMENTACI&Oacute;N?</h2>
+<br>
+La alimentaci&oacute;n saludable es aquella que proporciona los nutrientes que el cuerpo necesita para mantener el buen funionamiento del organismo, conservar o restablecer la salud, minimizar el riesgo de enfermedades,  garantizar la reproducci&oacute;n, gestaci&oacute;n, lactancia, desarrollo y crecimiento adecuado.
+<br><center>
+<img src="https://www.conectandopacientes.es/images/blog/habitos-alimenticios-que-parecen-sanos-y-no-lo-son.jpg" alt="alimentacion" width="500"></center>
+<br>
+<br>
+<h2>¿QU&Eacute; SIGNIFICA TENER UNA VIDA SALUDABLE?</h2>
+<br>
+<p>Un estilo de vida saludable significa reducir al m&iacute;nimo la presencia de factores de riesgo en nuestra vida, los cuales nos afectan negativamente e incide positivamente en nuestro bienestar f&iacute;sico, mental y social.</p>
+<br><center>
+<img src="https://img.freepik.com/vector-gratis/composicion-dibujos-animados-habitos-estilo-vida-saludable-mujeres-no-fumadoras-que-practican-dieta-sueno-8-horas-yoga-aliviar-estres_1284-59040.jpg" alt="salud" width="400"></center>
+<br>
+<br>
+<h2>¿POR QU&Eacute; ES IMPORTANTE TENER UNA VIDA SALUDABLE?</h2>
+<br>
+<p>Temer una vida saludable ayuda en la prevenci&oacute;n de enfermedades cardiovasculares, c&aacute;ncer y diabetes, adem&aacute;s de que reduce los s&iacute;ntomas de depresi&oacute;n y ansiedad y mejora las habilidades de razonamiento, juicio y aprendizaje. Adem&aacute;s de que te ver&aacute;s y sentir&aacute;s bien.</p>
+<br><center>
+<img src="https://www.clinicabiblica.com/images/noticias2022/consejos0422.jpg" alt="importancia" height="200">
+<img src="https://www.seniorsresidencias.es/wp-content/uploads/2017/03/POST1-SENIORS.png" alt="importancia" height="200"></center>
+<br>
+<br>
+<h2><font color="blue">H&Aacute;BITOS PARA UNA VIDA SALUDABLE</font></h2>
+<center>
+<table>
+  <tr><td>
+   <b> 1.-Come bien</b><br>
+   <p>Utiliza el plato del buen comer para llevar a cabo tus comidas principales y controla el consumo de az&uacute;car y/o grasas saturadas.</p>
+    <center><img src="https://maiaorganicos.mx/wp-content/uploads/2018/04/Posts-IMG-piramide-de-alimentacion.jpg" alt="alimentacion" width="100"></center>
+  </td>
+  <td>
+   <b>2.- Manten tu cuerpo activo</b><br>
+   <p>El ejercicio fortalece los huesos, el corazón y los pulmones, tonifica los músculos, mejora la vitalidad, alivia la depresión y ayuda a conciliar mejor el sueño. Puedes hacerlo desde tu casa, en el gimnasio o al aire libre</p>
+    <center><img src="https://www.fem.es/wp-content/uploads/2022/09/consejos_ejercicio_fisico.jpg" alt="ejercicio" width="100"></center>
+  </td>
+  <td>
+     <b> 3.-Bebe suficiente agua</b><br>   
+    <p>Es importante ya que te puedes deshidratar, da&ntilde;ar tus ri&ntilde;ones lo que te afectar&aacute; en un futuro. Para mejorar este hábito, fija metas realistas y paulatinas, en lugar de querer aumentar drásticamente tu consumo de agua.</p>
+    <center><img src="https://www.pescanova.pe/wp-content/uploads/2021/08/como-hidratarse-en-el-verano-1.jpg" alt="bebe agua" width="100"></center>
+     
+  </td></tr>
+  <tr><td>
+     <b> 4.-Evita el consumo de sustancias t&oacute;xicas</b>
+     <br>   
+    <p>Estan pueden ser el alcohol o el tabaco. Afecta en primera instancia las emociones, el pensamiento y el juicio. Tambi&eacute;n el control motor, produciendo mala pronunciaci&oacute;n al hablar, reacciones m&aacute;s lentas y p&eacute;rdida del equilibrio. Tener una cantidad m&aacute;s alta de grasa corporal</p>
+    <center><img src="https://i.pinimg.com/originals/3d/4e/33/3d4e330359316b4f70ee40d51cacacf3.jpg" alt="sustancias toxicas" width="100"></center>
+  </td>
+  <td>
+     <b> 5.-Cuida tu salud mental</b>
+     <br>   
+    <p>Maneja de buena manera el estr&eacute;s ya que es normal. Puede ser un gran motivador y sirve en algunos casos. Sin embargo, demasiado estr&eacute;s puede ocasionar problemas de salud como insomnio, malestar estomacal, ansiedad y cambios del estado de &aacute;nimo. Una opci&oacute;n ser&iacute; practicar meditaci&oacute;n.</p>
+    <center><img src="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/CXCRI22AHRDZVGHYUUQNXG5NYI.jpg" alt="salud mental" width="100"></center>
+  </td>
+  <td>
+     <b> 6.-Exponte diariamente al sol</b>
+     <br>   
+    <p> Te sentir&aacute;s m&aacute; feliz y no es una casualidad, tomar el sol promueve la s&iacute;ntesis de la serotonina, una sustancia relacionada con el bienestar. Adem&aacute;s, exponerte al sol por al menos 15 minutos al d&iacute;a te ayudar&aacute; a producir vitamina D, la cual es la responsable de fijar el calcio en tus huesos. Recuerda siempre proteger tu piel del sol con un bloqueador solar y as&iacute; obtendr&aacute;s los beneficios sin posibles daños a tu piel</p>
+    <center><img src="https://elcomercio.pe/resizer/X3x-g1X_f7mx2bAjOREMXvBLjtY=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/DUK43BCZPREIXAKRXBK33HEGG4.jpg" alt="sol" width="100"></center>
+  </td></tr>
+  <tr><td>
+     <b> 7.-No te saltes comidas</b>
+     <br>   
+    <p>Hacerlo puede ocasionar baja de energ&iacute;a y hasta mareos a causa de un baj&oacute;n en la glucosa en la sangre. Adem&aacute;s puede llevar a atracones en las siguientes comidas, lo m&aacute;s eficiente es comer 5 veces al día (3 comidas y 2 snacks) en porciones adecuadas y as&iacute; tu cuerpo tendr&aacute; un ritmo y aprovechar&aacute; mejor los nutrientes.</p>
+    <center><img src="https://static.abc.es/media/familia/2018/12/07/horarios-comida-3-khDC--1248x698@abc.jpg" alt="horario" width="100"></center>
+  </td>
+  <td>
+     <b> 8.-Prefiere productos frescos y limita los productos procesados</b>
+     <br>   
+    <p>Los productos frescos son de mejor calidad y los procesados traen muchas grasas saturadas</p>
+    <center><img src="https://alacenaecologica.es/wp-content/uploads/2019/01/tienda-alimentacion-saludable.jpg" alt="productos" width="100"></center>
+  </td>
+  <td> 
+  <b> 9.-Pasa tiempo con tus amigos y familia</b>
+  <br>   
+    <p>Frecuentar a tus amigos y seres queridos aumenta la sensaci&oacute;n de pertenencia, lo que te proporciona bienestar, fortalece tu autoestima y aumentamos los niveles de endorfinas ayudando a reducir el estr&Eacute;s</p>
+    <center><img src="https://www.lavanguardia.com/files/image_449_220/uploads/2018/09/03/5fa448536e8b6.jpeg" alt="convivir" width="100"></center>
+  </td></tr>
+  <tr><td>
+     <b> 10.-Duerme las horas suficientes</b>
+     <br>   
+    <p>Al dormir el tiempo que tu cuerpo necesita aumentas tus defensas, pues el sistema inmunol&oacute;gico utiliza las horas de sueño para regenerarse. Dormir adem&aacute;s ayuda a controlar los niveles de ansiedad y estr&eacute;s, as&iacute; que estar&aacute;s de mucho mejor humor después de una noche de buen descanso.</p>
+    <center><img src="https://www.planetfitness.com/sites/default/files/feature-image/_588682.jpg" alt="dormir" width="100"></center>
+  </td>
+  <td>
+     <b> 11.-Ten una higiene personal (incluida la higiene bucal) adecuada.</b>
+     <br>   
+    <p>Una buena higiene personal puede hacer que seas menos propenso a las enfermedades. Adem&Aacute;s de que te sentir&aacute;s y ver&aacute;s mejor.</p>
+   <center><img src="https://centromedicoabc.com/wp-content/uploads/2023/08/shutterstock_1677181513.webp" alt="higiene" width="100"></center>
+  </td>
+  <td> 
+  <b> 12.-Planifica tu día.</b>
+  <br>   
+    <p>Te permite alcanzar tus objetivos de una manera m&aacute;s &Aacute;gil, determinando tambi&Eacute;n, tiempos planificados y reales y volverte m&aacute;s eficiente. Siempre ten una actitud positiva.</p>
+   <center><img src="https://deproconsultores.com/wp-content/uploads/2018/06/Art-235-SolCalendar-1.jpg" alt="planificar dia" width="100"></center>
+  </td></tr>
+</table>
+</center>
+<br>
+</body>
+<style type="text/css">
+    header {
+      background: #ff4500;
+      width: 100%;
+      position: fixed;
+      z-index: 100;
+    }
+    nav {
+      float: left;
+    }
+    nav ul {
+      list-style: none;
+      overflow: hidden; 
+    }
+    nav ul li {
+      float: left;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 40px;
+    }
+      nav ul li a {
+      display: block; 
+      padding: 30px;
+      color: #fff;
+      text-decoration: none;
+    }
+    nav ul li:hover {
+      background: #c22817;
+      }
+      h2{
+      text-align: center;
+    }
+    table{
+      width: 99%;
+    }
+    td{
+      width: 33%;
+      color: "#C0C0C0";
+    }
+      </style>
+    </html>
+       
